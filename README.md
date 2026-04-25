@@ -8,7 +8,6 @@ Preview
 
 ![NetScope UI](preview.png)
 
-(Add your screenshot file named "preview.png" in the repo)
 
 ---
 

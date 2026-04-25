@@ -1,6 +1,7 @@
 NetScope Packet Analyzer
 
 A Wireshark-inspired packet analyzer with real-time capture, filtering, protocol decoding, and a modern GUI.
+Designed for learning network analysis and cybersecurity fundamentals.
 
 ---
 
@@ -33,9 +34,19 @@ Tech Stack
 
 ---
 
+Usage
+
+```bash
+python netscope.py
+```
+
+---
+
 Installation
 
 1. Clone the repository
 ```bash
 git clone https://github.com/ishaanatre27/netscope-packet-analyser.git
 cd netscope-packet-analyser
+pip install -r requirements.txt
+```
